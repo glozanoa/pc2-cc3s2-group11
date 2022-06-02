@@ -4,9 +4,6 @@
 
 
 **Members of group 11:**  
-* A
-<<<<<<< HEAD
-<<<<<<< HEAD
 * Hannu Portillo - 20185508K
 * Guillermo Borjas - 20090312A
 * Gustavo Lozano - 20161317K
@@ -27,7 +24,7 @@ Pregunta 3:
 
 Cobertura de código:
 ![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase3/report/coverage-report-fase3.png?raw=true)
-La refactorización ayudó tanto a la legibilidad del código como a ser más mantenible en el futuro. A su vez los test han podido cubrir el 100%
+La refactorización ayudó tanto a la legibilidad del código como a ser más mantenible en el futuro y también es ahora abierto a cambios, como agregar nuevas clases a partir de Flight, la cual quedará sin modificar (principio abierto / cerrado). A su vez los test han podido cubrir el 100%.
 
 
 Pregunta 4:
