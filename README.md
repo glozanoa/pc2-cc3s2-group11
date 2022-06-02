@@ -4,9 +4,6 @@
 
 
 **Members of group 11:**  
-* A
-<<<<<<< HEAD
-<<<<<<< HEAD
 * Hannu Portillo - 20185508K
 * Guillermo Borjas - 20090312A
 * Gustavo Lozano - 20161317K
