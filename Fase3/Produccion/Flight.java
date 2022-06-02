@@ -5,10 +5,11 @@ import java.util.List;
 public abstract class Flight {
 
     private String id;
-    List<Passenger> passengers = new ArrayList<Passenger>();
+    protected List<Passenger> passengers;
 
     public Flight(String id) {
         this.id = id;
+        this.passengers = new ArrayList<Passenger>();
     }
 
     public String getId() {
