@@ -14,9 +14,17 @@ Hay algunas lineas de la clase Flight que no estan siendo ejecutas por la prueba
 
 ![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/test/Fase1/report/coverage-fase1.png)
 
+
 Pregunta 2:
 
-Es necesario refactorizar dado que cada vez que se necesite agregar un nuevo tipo de vuelo, habría que modificar la condicional haciendo cambios en la clase y para eso siempre tendriamos que estar sujetos a lo que la variable typeFlight tome para cada caso. Convirtiendo cada tipo de vuelvo en una clase diferente que herede de la clase Flight podremos modificar los métodos addPassenger y removePasenger segpun sea el caso
+Es necesario refactorizar dado que cada vez que se necesite agregar un nuevo tipo de vuelo, habría que modificar la condicional haciendo cambios en la clase y para eso siempre tendriamos que estar sujetos a lo que la variable typeFlight tome para cada caso. Convirtiendo cada tipo de vuelvo en una clase diferente que herede de la clase Flight podremos modificar los métodos addPassenger y removePasenger segpun sea el caso.
+
+
+Pregunta 3:
+
+Cobertura de código:
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase3/report/coverage-report-fase3.png?raw=true)
+
 
 
 Pregunta 4:
