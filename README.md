@@ -32,11 +32,13 @@ Pregunta 4:
 Esta regla consiste en que se considera mala práctica si existe un bloque de código similar implementado más de dos veces. Esto es si este bloque se está reescribiendo por tercera vez, debe ser refactorizado, dado que conlleva a una difícil manuntención y lohace más pesado.
 
 Pregunta 5:
+
 Inicialización de la clase PremiumFlight:
 ![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase4/report/init-premium-flight.png?raw=true)
 
 
 Pregunta 6:
+
 Ejecución de pruebas luego de haber implementado las pruebas para la clase PremiumFlight:
 ![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase4/report/test-execution-1-fase4.png?raw=true)
 ![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase4/report/test-execution-2-fase4.png?raw=true)
