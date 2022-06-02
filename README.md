@@ -37,6 +37,10 @@ Pregunta 5:
 
 
 Pregunta 6:
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase4/report/test-execution-1-fase4.png?raw=true)
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase4/report/test-execution-2-fase4.png?raw=true)
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase4/report/test-execution-3-fase4.png?raw=true)
+
 
 Pregunta 7:
 
