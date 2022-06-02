@@ -12,7 +12,7 @@ Pregunta 1:
 
 Hay algunas lineas de la clase Flight que no estan siendo ejecutas por la prueba AirportTest y por eso no cubre el 100%
 
-![](https://gist.githubusercontent.com/glozanoa/b00c32a8e47c27157f467f00f704d9b7/raw/d1e566e42dabb0156953ea0ca209159c95679d8b/build.gradle)
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/test/Fase1/report/coverage-fase1.png)
 
 Pregunta 2:
 
