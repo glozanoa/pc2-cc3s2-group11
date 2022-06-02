@@ -1,6 +1,10 @@
 apply plugin: 'java'
 apply plugin: 'jacoco'
+<<<<<<< HEAD
+
+=======
 apply plugin: 'application'
+>>>>>>> d0189210fe5a114bf44a5a016c954a8ef53dd3ae
 
 repositories {
     mavenCentral()
@@ -15,13 +19,19 @@ jacocoTestReport {
    reports {
         xml.required = true
    }
+<<<<<<< HEAD
+    dependsOn test
+=======
     //dependsOn test
+>>>>>>> d0189210fe5a114bf44a5a016c954a8ef53dd3ae
 }
 
 test {
     useJUnitPlatform()
 }
 
+<<<<<<< HEAD
+=======
 sourceSets {
     main {
         java {
@@ -41,6 +51,7 @@ application {
     mainClass = 'Airport'
 }
 
+>>>>>>> d0189210fe5a114bf44a5a016c954a8ef53dd3ae
 /*
  * display unit tests excution result in console
  */
