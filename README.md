@@ -64,6 +64,9 @@ Aquí se muestra el test que verifica que un pasajero solo se puede agregar una 
 
 ![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/testPremiumFlightVipPassenger.png?raw=true)
 
+
+**Ejecucion final de tests y cobertura:**
+
 Ejecución de test luego de implementar la lógica comercial en PremiumFlight (pregunta 7) y refaccionar la clase Flight (pregunta 8):
 
 ![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/test-execution-1-fase5.png?raw=true)
