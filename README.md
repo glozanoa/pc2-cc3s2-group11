@@ -30,3 +30,11 @@ La refactorización ayudó tanto a la legibilidad del código como a ser más ma
 Pregunta 4:
 
 Esta regla consiste en que se considera mala práctica si existe un bloque de código similar implementado más de dos veces. Esto es si este bloque se está reescribiendo por tercera vez, debe ser refactorizado, dado que conlleva a una difícil manuntención y lohace más pesado.
+
+Pregunta 5:
+
+Pregunta 6:
+
+Pregunta 7:
+
+Pregunta 8:
