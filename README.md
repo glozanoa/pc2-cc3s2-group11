@@ -24,7 +24,7 @@ Pregunta 3:
 
 Cobertura de código:
 ![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase3/report/coverage-report-fase3.png?raw=true)
-
+La refactorización ayudó tanto a la legibilidad del código como a ser más mantenible en el futuro. A su vez los test han podido cubrir el 100%
 
 
 Pregunta 4:
