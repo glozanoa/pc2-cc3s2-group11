@@ -32,6 +32,7 @@ Pregunta 4:
 Esta regla consiste en que se considera mala práctica si existe un bloque de código similar implementado más de dos veces. Esto es si este bloque se está reescribiendo por tercera vez, debe ser refactorizado, dado que conlleva a una difícil manuntención y lohace más pesado.
 
 Pregunta 5:
+
 ![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase4/report/init-premium-flight.png?raw=true)
 
 
