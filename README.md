@@ -20,4 +20,5 @@ Es necesario refactorizar dado que cada vez que se necesite agregar un nuevo tip
 
 
 Pregunta 4:
+
 Esta regla consiste en que se considera maña práctica si existe un bloque de código similar implementado más de dos veces. Esto es si este bloque se está reescribiendo por tercera vez, debe ser refactorizado, dado que conlleva a una difícil manuntención y lohace más pesado.
