@@ -5,5 +5,5 @@
 
 **Members of group 11:**  
 * A
-* B
+* Guillermo Borjas - 20090312A
 * Gustavo Lozano - 20161317K
