@@ -60,3 +60,4 @@ Implementación de la lógica de la clase PremiumFlight
 
 Pregunta 8:
 
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/testPremiumFlightVipPassenger.png?raw=true)
