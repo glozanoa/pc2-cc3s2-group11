@@ -5,5 +5,5 @@
 
 **Members of group 11:**  
 * A
-* B
+* Hannu Portillo - 20185508K
 * Gustavo Lozano - 20161317K
