@@ -7,8 +7,10 @@ public class PremiumFlight extends Flight {
 
     @Override
     public boolean addPassenger(Passenger passenger) {
-        if (passenger.isVip())
-            return passengers.add(passenger);
+        if (passenger.isVip()) {
+            passengers.add(passenger);
+            return true;
+        }
         else
             return false;
     }
