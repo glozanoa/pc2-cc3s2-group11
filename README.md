@@ -5,5 +5,11 @@
 
 **Members of group 11:**  
 * A
-* B
+* Guillermo Borjas
 * Gustavo Lozano - 20161317K
+
+Pregunta 1:
+
+Hay algunas lineas de la clase Flight que no estan siendo ejecutas por la prueba AirportTest y por eso no cubre el 100%
+
+[]
