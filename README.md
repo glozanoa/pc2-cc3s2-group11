@@ -54,4 +54,9 @@ La covertura luego de la implementación de las pruebas:
 
 Pregunta 7:
 
+Implementación de la lógica de la clase PremiumFlight
+
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/implementacionPremiumFlight.png?raw=true)
+
 Pregunta 8:
+
