@@ -67,3 +67,6 @@ Ejecución de test luego de implementar la lógica comercial:
 
 Pregunta 8:
 
+Aquí se muestra que el test que verifica que un pasajero solo se puede agregar una vez a un vuelo
+
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/testPremiumFlightVipPassenger.png?raw=true)
