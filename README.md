@@ -58,15 +58,22 @@ Implementación de la lógica de la clase PremiumFlight
 
 ![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/implementacionPremiumFlight.png?raw=true)
 
-Ejecución de test luego de implementar la lógica comercial:
 
-![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/test-execution-1-fase5.png?raw=true)
-![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/test-execution-2-fase5.png?raw=true)
-![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/test-execution-3-fase5.png?raw=true)
-![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/test-execution-4-fase5.png?raw=true)
 
 Pregunta 8:
 
 Aquí se muestra que el test que verifica que un pasajero solo se puede agregar una vez a un vuelo
 
 ![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/testPremiumFlightVipPassenger.png?raw=true)
+
+Ejecución de test luego de implementar la lógica comercial en PremiumFlight (pregunta 7) y refaccionar la clase Flight (pregunta 8):
+
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/test-execution-1-fase5.png?raw=true)
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/test-execution-2-fase5.png?raw=true)
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/test-execution-3-fase5.png?raw=true)
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/test-execution-4-fase5.png?raw=true)
+
+
+Coertura de código de la fase 5 finalizada:
+
+![](https://github.com/glozanoa/pc2-cc3s2-group11/blob/master/Fase5/report/coverageReportFase5.png?raw=true)
